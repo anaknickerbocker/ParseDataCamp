@@ -1,0 +1,165 @@
+Intro to Python for Data Science
+Python Basics
+Python Lists
+Functions and Packages
+NumPy
+
+Intermediate Python for Data Science
+Matplotlib
+Dictionaries & Pandas
+Logic, Control Flow and Filtering
+Loops
+Case Study: Hacker Statistics
+
+Python Data Science Toolbox (Part 1)
+Writing your own functions
+Default arguments, variable-length arguments and scope
+Lambda functions and error-handling
+
+Python Data Science Toolbox (Part 2)
+Using iterators in PythonLand
+List comprehensions and generators
+Bringing it all together!
+
+Importing Data in Python (Part 1)
+Introduction and flat files
+Importing data from other file types
+Working with relational databases in Python
+
+Importing Data in Python (Part 2)
+Importing data from the Internet
+Interacting with APIs to import data from the web
+Diving  deep into the Twitter API
+
+Cleaning Data in Python
+Exploring your data
+Tidying data for analysis
+Combining data for analysis
+Cleaning data for analysis
+Case study
+
+pandas Foundations
+Data ingestion & inspection
+Time series in pandas
+Exploratory data analysis
+Case Study - Sunlight in Austin
+Data ingestion & inspection
+Exploratory data analysis
+Time series in pandas
+Case Study - Sunlight in Austin
+
+Manipulating DataFrames with pandas
+Extracting and transforming data
+Advanced indexing
+Rearranging and reshaping data
+Grouping data
+Bringing it all together
+
+Merging DataFrames with pandas
+Preparing data
+Concatenating data
+Merging data
+Case Study - Summer Olympics
+
+Intro to SQL for Data Science
+Selecting columns
+Filtering rows
+Aggregate Functions
+Sorting, grouping and joins
+
+Introduction to Databases in Python
+Basics of Relational Databases
+Advanced SQLAlchemy Queries
+Putting it all together
+Applying Filtering, Ordering and Grouping to Queries
+Creating and Manipulating your own Databases
+Basics of Relational Databases
+Applying Filtering, Ordering and Grouping to Queries
+Advanced SQLAlchemy Queries
+Creating and Manipulating your own Databases
+Putting it all together
+
+Introduction to Data Visualization with Python
+Customizing plots
+Plotting 2D arrays
+Statistical plots with Seaborn
+Analyzing time series and images
+
+Interactive Data Visualization with Bokeh
+Basic plotting with Bokeh
+Building interactive apps with Bokeh
+Layouts,  Interactions, and Annotations
+Putting It All Together! A Case Study
+Basic plotting with Bokeh
+Layouts,  Interactions, and Annotations
+Building interactive apps with Bokeh
+Putting It All Together! A Case Study
+
+Statistical Thinking in Python (Part 1)
+Graphical exploratory data analysis
+Thinking probabilistically-- Discrete variables
+Quantitative exploratory data analysis
+Thinking probabilistically-- Continuous variables
+Graphical exploratory data analysis
+Quantitative exploratory data analysis
+Thinking probabilistically-- Discrete variables
+Thinking probabilistically-- Continuous variables
+
+Statistical Thinking in Python (Part 2)
+Parameter estimation by optimization
+Bootstrap confidence intervals
+Introduction to hypothesis testing
+Hypothesis test examples
+Putting it all together: a case study
+
+Joining Data in PostgreSQL
+Introduction to joins
+Set theory clauses
+Outer joins and cross joins
+Subqueries
+Introduction to joins
+Outer joins and cross joins
+Set theory clauses
+Subqueries
+
+Supervised Learning with scikit-learn
+Classification
+Fine-tuning your model
+Regression
+Preprocessing and pipelines
+Classification
+Regression
+Fine-tuning your model
+Preprocessing and pipelines
+
+Machine Learning with the Experts: School Budgets
+Exploring the raw data
+Creating a simple first model
+Improving your model
+Learning from the experts
+
+Unsupervised Learning in Python
+Clustering for dataset exploration
+Decorrelating your data and dimension reduction
+Visualization with hierarchical clustering and t-SNE
+Discovering interpretable features
+Clustering for dataset exploration
+Visualization with hierarchical clustering and t-SNE
+Decorrelating your data and dimension reduction
+Discovering interpretable features
+
+Deep Learning in Python
+Basics of deep learning and neural networks
+Building deep learning models with keras
+Optimizing a neural network with backward propagation
+Fine-tuning keras models
+Basics of deep learning and neural networks
+Optimizing a neural network with backward propagation
+Building deep learning models with keras
+Fine-tuning keras models
+
+Network Analysis in Python (Part 1)
+Introduction to networks
+Important nodes
+Structures
+Bringing it all together
